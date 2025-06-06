@@ -77,7 +77,7 @@ Los endpoints están protegidos por roles:
 
 ## ✍️ Autor
 
-Trabajo realizado para la materia **Backend de Aplicaciones - 2024**  
-Facultad [especificar facultad o cátedra si querés]
+Trabajo realizado para la materia **Backend de Aplicaciones - 2025**  
+Facultad UTN FRC
 
 ---
